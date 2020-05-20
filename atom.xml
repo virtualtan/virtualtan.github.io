@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-18T04:22:28.907Z</updated>
+  <updated>2020-05-20T07:10:10.098Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>记在2020520</title>
+    <link href="http://yoursite.com/2020/05/20/%E8%AE%B0%E5%9C%A82020520/"/>
+    <id>http://yoursite.com/2020/05/20/%E8%AE%B0%E5%9C%A82020520/</id>
+    <published>2020-05-20T06:20:07.000Z</published>
+    <updated>2020-05-20T07:10:10.098Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天是2020年5月20号，现在时刻是下午2点20分，总想写点什么。</p><a id="more"></a><p>​    又觉得没啥要说的。</p><p>​    搁笔？</p><p>​    写点对自己的祝愿和期盼吧。</p><iframe src="//player.bilibili.com/player.html?aid=13267701&amp;bvid=BV19x411n7qK&amp;cid=21753129&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><blockquote><p>ps: 插入不了音乐，就只能插入b站视频了2333</p></blockquote><p>​    以后的你，要对世界报以善意，也要善待自己。不能辜负他人的期望，不能让他们后悔失望，自己也绝不能绝望。</p><p>​    以后的你，要多看书，多走路。少抖擞意气，当然了，在必要的时候也决不可懦弱。要多听多看多想，多想想他人为什么那么做，也多想想自己以后该怎么做。</p><p>​    以后的你，要慎独，要诚实守信。说出的话必须践行，那些无需多说的事就不要张扬，只管做事。你要相信，好事做的多了，自有好事来。</p><p>以后啊，如果是遇到了难以抉择的事，问问春风吧；若是遇到了难以越过到坎，问问朋友吧。</p><p>搁笔。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天是2020年5月20号，现在时刻是下午2点20分，总想写点什么。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="记录" scheme="http://yoursite.com/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>书籍推荐——《剑来》</title>
@@ -46,20 +71,15 @@
     <link href="http://yoursite.com/2020/05/17/test/"/>
     <id>http://yoursite.com/2020/05/17/test/</id>
     <published>2020-05-17T03:30:05.000Z</published>
-    <updated>2020-05-18T00:08:21.471Z</updated>
+    <updated>2020-05-20T06:26:29.213Z</updated>
     
-    <content type="html"><![CDATA[<p>title: …<br>date: …<br>cover: /img/post-cover/XX.jpg<br>mathjax: true<br>categories: …<br>tags: </p><ul><li>xx</li><li>other xx</li></ul>]]></content>
+    <content type="html"><![CDATA[<p>test</p><p><del>233333</del></p><p><strong><em>……</em></strong></p><a id="more"></a><h2 id="博文设置："><a href="#博文设置：" class="headerlink" title="博文设置："></a>博文设置：</h2><p>title: …<br>date: …<br>cover: /img/post-cover/XX.jpg<br>mathjax: true<br>categories: …<br>tags: </p><ul><li>xx</li><li>other xx</li></ul><h2 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h2><p>日志</p><p>博客配置</p><h2 id="标签"><a href="#标签" class="headerlink" title="标签"></a>标签</h2><p>推荐： 书籍，电影， 番剧， 电视剧， 音乐。</p><p>分享/记录： 学习经验，生活， 旅行， 感想。</p><p><del>学习： 写到<a href="https://www.cnblogs.com/tyner/" target="_blank" rel="noopener">博客园</a>？</del></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;title: …&lt;br&gt;date: …&lt;br&gt;cover: /img/post-cover/XX.jpg&lt;br&gt;mathjax: true&lt;br&gt;categories: …&lt;br&gt;tags: &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;xx&lt;/li&gt;
-&lt;li&gt;other xx&lt;/li&gt;
-&lt;
-      
+      &lt;p&gt;test&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;233333&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;……&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
     
     </summary>
     
