@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-28T14:21:42.874Z</updated>
+  <updated>2020-05-29T10:27:06.052Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Annie主题使用Hexo-Tag-Plugins</title>
+    <link href="http://yoursite.com/2020/05/29/Annie%E4%B8%BB%E9%A2%98%E4%BD%BF%E7%94%A8Hexo-Tag-Plugins/"/>
+    <id>http://yoursite.com/2020/05/29/Annie%E4%B8%BB%E9%A2%98%E4%BD%BF%E7%94%A8Hexo-Tag-Plugins/</id>
+    <published>2020-05-29T07:57:02.000Z</published>
+    <updated>2020-05-29T10:27:06.052Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="特别声明"><a href="#特别声明" class="headerlink" title="特别声明"></a>特别声明</h2><p><a href="https://sariay.github.io/2019/04/30/Annie主题使用Hexo-Tag-Plugins/" target="_blank" rel="noopener">参考博客</a></p><p>本文只写了”信息提示Color Quote tag“的使用，对于”块引用Block Quote tag”和“代码块Code Block tag”，我觉得markdown语法已经够用了。（<del>实际上是自己不会用</del></p><p>ps：貌似只有Annie 主题能用2333</p><h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><p>代码里是栗子🌰，它下面是输出</p><h3 id="1-普通信息"><a href="#1-普通信息" class="headerlink" title="1 普通信息"></a>1 普通信息</h3><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% colorquote info %&#125;</span><br><span class="line">这是一条普通信息!</span><br><span class="line">&#123;% endcolorquote %&#125;</span><br></pre></td></tr></table></figure><blockquote class="colorquote info"><p>这是一条普通信息!</p></blockquote><h3 id="2-成功信息"><a href="#2-成功信息" class="headerlink" title="2 成功信息"></a>2 成功信息</h3><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% colorquote success %&#125;</span><br><span class="line">这是一条成功信息!</span><br><span class="line">&#123;% endcolorquote %&#125;</span><br></pre></td></tr></table></figure><blockquote class="colorquote success"><p>这是一条成功信息!</p></blockquote><h3 id="3-警告信息"><a href="#3-警告信息" class="headerlink" title="3 警告信息"></a>3 警告信息</h3><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% colorquote warning %&#125;</span><br><span class="line">这是一条警告信息!</span><br><span class="line">&#123;% endcolorquote %&#125;</span><br></pre></td></tr></table></figure><blockquote class="colorquote warning"><p>这是一条警告信息!</p></blockquote><h3 id="4-危险信息"><a href="#4-危险信息" class="headerlink" title="4 危险信息"></a>4 危险信息</h3><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% colorquote danger %&#125;</span><br><span class="line">这是一条危险信息!</span><br><span class="line">&#123;% endcolorquote %&#125;</span><br></pre></td></tr></table></figure><blockquote class="colorquote danger"><p>这是一条危险信息!</p></blockquote><p>搁笔。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;特别声明&quot;&gt;&lt;a href=&quot;#特别声明&quot; class=&quot;headerlink&quot; title=&quot;特别声明&quot;&gt;&lt;/a&gt;特别声明&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://sariay.github.io/2019/04/30/Annie主题使用Hexo-Tag
+      
+    
+    </summary>
+    
+    
+      <category term="博客配置相关" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E9%85%8D%E7%BD%AE%E7%9B%B8%E5%85%B3/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>软件推荐——picgo图床</title>
