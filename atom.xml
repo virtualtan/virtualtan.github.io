@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Xmz-Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-06-01T22:54:33.305Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>virtualtan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/2020/06/02/test/"/>
+    <id>http://yoursite.com/2020/06/02/test/</id>
+    <published>2020-06-01T22:47:59.000Z</published>
+    <updated>2020-06-01T22:54:33.305Z</updated>
+    
+    <content type="html"><![CDATA[<p>2333</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstdio&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span> </span>&#123;</span><br><span class="line">  <span class="built_in">printf</span>(<span class="string">"Hello World!"</span>);</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><a id="more"></a><p>$\frac{3}{5}$</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">html</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;<span class="name">body</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">p</span>&gt;</span>This is my first paragraph.<span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">body</span>&gt;</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;/<span class="name">html</span>&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2333&lt;/p&gt;
+&lt;figure class=&quot;highlight c++&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;meta&quot;&gt;#&lt;span class=&quot;meta-keyword&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;meta-string&quot;&gt;&amp;lt;cstdio&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;title&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;()&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;  &lt;span class=&quot;built_in&quot;&gt;printf&lt;/span&gt;(&lt;span class=&quot;string&quot;&gt;&quot;Hello World!&quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;	&lt;span class=&quot;keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;number&quot;&gt;0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>basic blog</title>
+    <link href="http://yoursite.com/2020/06/02/basic-blog/"/>
+    <id>http://yoursite.com/2020/06/02/basic-blog/</id>
+    <published>2020-06-01T16:04:05.000Z</published>
+    <updated>2020-06-01T23:20:20.369Z</updated>
+    
+    <content type="html"><![CDATA[<p>test</p><p><del>233333</del></p><p><strong><em>……</em></strong></p><a id="more"></a><h2 id="博文设置："><a href="#博文设置：" class="headerlink" title="博文设置："></a>博文设置：</h2><p>title: …<br>date: …<br>top_img: <a href="https://xxx.jpg" target="_blank" rel="noopener">https://xxx.jpg</a><br>categories: …<br>tags: </p><ul><li>xx</li><li>other xx</li></ul><p>top: True (要置顶的时候写</p><p>layout: slides (幻灯片slides页面时要写</p><p><strong>本博客所写内容如下</strong></p><h2 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h2><p>日志</p><p>博客配置</p><h2 id="标签"><a href="#标签" class="headerlink" title="标签"></a>标签</h2><p>推荐： 书籍，影视，音乐，<strong>软件</strong>, <em>工具</em>。</p><p>分享/记录： 学习经验，生活， 旅行， 感想。</p><p><del>学习： 写到<a href="https://www.cnblogs.com/tyner/" target="_blank" rel="noopener">博客园</a>？</del></p><p>（待补充….</p><h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><p>侵权联系删除。</p><p>搁笔。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;test&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;233333&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;……&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="博客配置相关" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E9%85%8D%E7%BD%AE%E7%9B%B8%E5%85%B3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>软件推荐——picgo图床</title>
+    <link href="http://yoursite.com/2020/05/28/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90%E2%80%94%E2%80%94picgo%E5%9B%BE%E5%BA%8A/"/>
+    <id>http://yoursite.com/2020/05/28/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90%E2%80%94%E2%80%94picgo%E5%9B%BE%E5%BA%8A/</id>
+    <published>2020-05-28T14:05:54.000Z</published>
+    <updated>2020-06-01T15:19:54.807Z</updated>
+    
+    <content type="html"><![CDATA[<p>这里推荐的是一款图床软件，<strong>PicGo</strong>，内含多种图床，快速，私密性高，存储图片的位置也明确，很适合写作过程中插入图片。</p><a id="more"></a><p>图床的相关科普我就不发了，<del>大家自行百度</del>， 相信写博客的人都知道，在写作过程中图床是必不可需的（如果你非要上传到本地，当我没说…)</p><h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>而这款软件，既美观，又实用：</p><p><img src="https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/New%20LOGO-150.png" alt=""></p><p><img src="https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/picgo-2.0.gif" alt=""></p><p>（美观如上，实用如下：</p><p>PicGo 本体支持多种图床， 还可以添加插件，支持Windows，Mac和Linux。</p><p>大牛还可以自行构建哦， 在<a href="https://github.com/Molunerfinn/PicGo/" target="_blank" rel="noopener">原网址</a>作者有申明。</p><h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><p>请进我的学习博客：<a href="https://www.cnblogs.com/tyner/p/12982582.html" target="_blank" rel="noopener">网站学习——使用picgo搭建自己的图床</a> </p><p><strong>热烈欢迎！！</strong></p><p>搁笔。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这里推荐的是一款图床软件，&lt;strong&gt;PicGo&lt;/strong&gt;，内含多种图床，快速，私密性高，存储图片的位置也明确，很适合写作过程中插入图片。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="博客配置相关" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E9%85%8D%E7%BD%AE%E7%9B%B8%E5%85%B3/"/>
+    
+    
+      <category term="推荐" scheme="http://yoursite.com/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+      <category term="软件" scheme="http://yoursite.com/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>工具推荐——搭建博客</title>
+    <link href="http://yoursite.com/2020/05/28/%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90%E2%80%94%E2%80%94%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2020/05/28/%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90%E2%80%94%E2%80%94%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2020-05-28T02:10:29.000Z</published>
+    <updated>2020-06-01T15:18:07.135Z</updated>
+    
+    <content type="html"><![CDATA[<p>这里记录我 <del>乱搞</del> 实验过的写博客的工具</p><p><strong><strong>说明：附有学习视频教程，全部来源于b站，侵权联系删除</strong></strong></p><a id="more"></a><h2 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h2><p>（静态，免费，+github<br><a href="https://www.bilibili.com/video/BV1Yb411a7ty" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1Yb411a7ty</a></p><p>贴上主题：<br><a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="noopener">https://github.com/litten/hexo-theme-yilia</a><br><a href="https://github.com/Sariay/hexo-theme-Annie" target="_blank" rel="noopener">https://github.com/Sariay/hexo-theme-Annie</a><br><a href="https://github.com/miiiku/flex-block" target="_blank" rel="noopener">https://github.com/miiiku/flex-block</a></p><p><a href="https://molunerfinn.com/hexo-theme-melody-doc/zh-Hans/" target="_blank" rel="noopener">https://molunerfinn.com/hexo-theme-melody-doc/zh-Hans/</a></p><p><a href="https://github.com/theme-next/hexo-theme-next/blob/master/docs/zh-CN/README.md" target="_blank" rel="noopener">https://github.com/theme-next/hexo-theme-next/blob/master/docs/zh-CN/README.md</a></p><p>主题相关配置自行百度</p><h2 id="hugo"><a href="#hugo" class="headerlink" title="hugo"></a>hugo</h2><p>（静态，免费，比上面简单点，+github<br><a href="https://www.bilibili.com/video/BV1q4411i7gL" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1q4411i7gL</a></p><h2 id="typecho"><a href="#typecho" class="headerlink" title="typecho"></a>typecho</h2><p>（动态， 腾讯云或阿里云<br><a href="https://www.bilibili.com/video/BV1o4411r7x5?p=8" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1o4411r7x5?p=8</a></p><p>主题：<a href="https://typecho.me/1284.html" target="_blank" rel="noopener">https://typecho.me/1284.html</a></p><h2 id="Gridea"><a href="#Gridea" class="headerlink" title="Gridea"></a>Gridea</h2><p>（静态，免费，+GitHub， 有客户端<br><a href="https://fehey.com/post/hve-notes-start/" target="_blank" rel="noopener">https://fehey.com/post/hve-notes-start/</a><br><a href="https://www.bilibili.com/video/av69627579/?spm_id_from=333.788.videocard.0" target="_blank" rel="noopener">https://www.bilibili.com/video/av69627579/?spm_id_from=333.788.videocard.0</a></p><h2 id="wordpress"><a href="#wordpress" class="headerlink" title="wordpress"></a>wordpress</h2><p>( 动态<br><a href="https://www.bilibili.com/video/BV1k4411e7Jn" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1k4411e7Jn</a></p><p>贴个主题：<a href="https://2heng.xin/theme-sakura/#toc-head-17" target="_blank" rel="noopener">https://2heng.xin/theme-sakura/#toc-head-17</a></p><h2 id="推荐："><a href="#推荐：" class="headerlink" title="推荐："></a>推荐：</h2><p>静态博客推荐使用hexo（小白的话，Gridea也还行，可能速度不快），动态博客就…<del>博客园吧</del>…wordpress和typecho都行，其实博客园挺好用的。</p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>没玩过</p><p>建议喜欢折腾的人就玩到这吧…博客多不如博文多，博客好看不如博文精致…有任何疑问可以考虑看看视频里的弹幕，或者联系我</p><p>感谢上面的up主们。 侵权联系删除</p><p>搁笔。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这里记录我 &lt;del&gt;乱搞&lt;/del&gt; 实验过的写博客的工具&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;strong&gt;说明：附有学习视频教程，全部来源于b站，侵权联系删除&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="博客配置相关" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E9%85%8D%E7%BD%AE%E7%9B%B8%E5%85%B3/"/>
+    
+    
+      <category term="推荐" scheme="http://yoursite.com/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+      <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>影视推荐——4月番剧</title>
+    <link href="http://yoursite.com/2020/05/27/%E5%BD%B1%E8%A7%86%E6%8E%A8%E8%8D%90%E2%80%94%E2%80%944%E6%9C%88%E7%95%AA%E5%89%A7/"/>
+    <id>http://yoursite.com/2020/05/27/%E5%BD%B1%E8%A7%86%E6%8E%A8%E8%8D%90%E2%80%94%E2%80%944%E6%9C%88%E7%95%AA%E5%89%A7/</id>
+    <published>2020-05-27T07:14:29.000Z</published>
+    <updated>2020-06-01T15:19:44.333Z</updated>
+    
+    <content type="html"><![CDATA[<p>这里写下我在四月追过的番剧，个人觉得很好看，很值得推荐。</p><p>（ps：我比较喜欢在看完之后截图纪念，所以本文图片可能较多</p><a id="more"></a><h2 id="《月刊少女野崎君》"><a href="#《月刊少女野崎君》" class="headerlink" title="《月刊少女野崎君》"></a>《月刊少女野崎君》</h2><p>​        比较沙雕的一部番剧，适合没事的时候看，也可以用作解闷，改善心情。</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf718r01uaj30h709pjs0.jpg" alt="入学式"></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf718qff5cj30h509o3z1.jpg" alt="烟花庙会"></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71tyha35j30fq09n0u6.jpg" alt=""></p><h2 id="声之形"><a href="#声之形" class="headerlink" title="声之形"></a>声之形</h2><p>​        <strong>不多说，直接推荐。</strong> </p><p>​        个人觉得男主和青春期的我们比较像，女主也是….多珍惜眼前人吧，别再让ta受不该受的委屈了，都只是孩子啊。</p><p>​        </p><p>​        哦对了，<strong>不要轻生！！</strong>借用蛇叔的话：</p><blockquote><p>活着本没有什么意思，但只要活着，就会遇上有意思的东西，就像你遇见了花，我又遇见了你一样。</p></blockquote><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71dj1ok5j30qj0ecmzd.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71dly6jqj30ql0ectap.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71dv7nnrj30qe0e8gnb.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71dxrfs1j30ql0ecwh8.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71qb6s5zj30ql0ecdiu.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71qclmy7j30qo0efadd.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71qfwwl7j30qm0eewh8.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71ql844rj30qn0efq7n.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71qpsbmnj30qm0edju1.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71d4g4b7j30p00ditao.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71d9zm9bj30p00dfjvg.jpg" alt=""></p><h2 id="你的名字"><a href="#你的名字" class="headerlink" title="你的名字"></a>你的名字</h2><p>​        剧情向，好看，不是很虐，画面很美。</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71gye4urj30rc0fc7av.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71gzlw03j30re0fate1.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71h110wbj30re0fd78v.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71h25jvsj30rg0fh78r.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71h3b6bhj30re0fd447.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71kw5p08j30rf0fejvw.jpg" alt=""></p><h2 id="青春期猪头少年不会梦到兔女郎"><a href="#青春期猪头少年不会梦到兔女郎" class="headerlink" title="青春期猪头少年不会梦到兔女郎"></a>青春期猪头少年不会梦到兔女郎</h2><p>​        剧情向，虽然不符实，但确实值得一看。</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71krvz6wj30zk0k0wg7.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71ks3r2qj30d6087mx9.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71ks8ojpj30d6088mxd.jpg" alt=""></p><h2 id="天使降临到了我身边"><a href="#天使降临到了我身边" class="headerlink" title="天使降临到了我身边"></a>天使降临到了我身边</h2><p>治愈番，<strong>超级治愈！！</strong></p><p>（ps：不知道截哪张好看好萌的图，就截了这张全家福….别介…他们都是很治愈的哦！不相信就去看看吧。</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71okhwxaj30rw0fln2z.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这里写下我在四月追过的番剧，个人觉得很好看，很值得推荐。&lt;/p&gt;
+&lt;p&gt;（ps：我比较喜欢在看完之后截图纪念，所以本文图片可能较多&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="推荐" scheme="http://yoursite.com/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+      <category term="影视" scheme="http://yoursite.com/tags/%E5%BD%B1%E8%A7%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记在2020520</title>
+    <link href="http://yoursite.com/2020/05/20/%E8%AE%B0%E5%9C%A82020520/"/>
+    <id>http://yoursite.com/2020/05/20/%E8%AE%B0%E5%9C%A82020520/</id>
+    <published>2020-05-20T06:20:07.000Z</published>
+    <updated>2020-06-01T15:18:55.087Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天是2020年5月20号，现在时刻是下午2点20分，总想写点什么。</p><a id="more"></a><p>​    又觉得没啥要说的。</p><p>​    搁笔？</p><p>​    写点对自己的祝愿和期盼吧。</p><iframe src="//player.bilibili.com/player.html?aid=13267701&amp;bvid=BV19x411n7qK&amp;cid=21753129&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><blockquote><p>ps: 插入不了音乐，就只能插入b站视频了2333</p></blockquote><p>​    以后的你，要对世界报以善意，也要善待自己。不能辜负他人的期望，不能让他们后悔失望，自己也绝不能绝望。</p><p>​    以后的你，要多看书，多走路。少抖擞意气，当然了，在必要的时候也决不可懦弱。要多听多看多想，多想想他人为什么那么做，也多想想自己以后该怎么做。</p><p>​    以后的你，要慎独，要诚实守信。说出的话必须践行，那些无需多说的事就不要张扬，只管做事。你要相信，好事做的多了，自有好事来。</p><p>以后啊，如果是遇到了难以抉择的事，问问春风吧；若是遇到了难以越过到坎，问问朋友吧。</p><p>搁笔。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天是2020年5月20号，现在时刻是下午2点20分，总想写点什么。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="记录" scheme="http://yoursite.com/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>书籍推荐——《剑来》</title>
+    <link href="http://yoursite.com/2020/05/18/%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90%E2%80%94%E2%80%94%E3%80%8A%E5%89%91%E6%9D%A5%E3%80%8B/"/>
+    <id>http://yoursite.com/2020/05/18/%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90%E2%80%94%E2%80%94%E3%80%8A%E5%89%91%E6%9D%A5%E3%80%8B/</id>
+    <published>2020-05-18T00:10:29.000Z</published>
+    <updated>2020-06-01T15:18:35.484Z</updated>
+    
+    <content type="html"><![CDATA[<p>《剑来》是我在疫情期间读的书，与之一起读的还有《龙族》（重温龙族三），《瓦尔登湖》（读的不多）和《明朝那些事儿》（快读完了），很<strong>庆幸有这些书籍陪伴，很高兴遇见他们！</strong></p><a id="more"></a><p>​        《剑来》一书，是由网络作家”烽火戏诸侯“创作的<strong>武侠修真网络小说</strong>，关于这本书的好坏，我不做与网评类似的评论，只说自己的看法和感受。</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gewbv2i3ugj30dw090jrj.jpg" alt=""></p><p>（观前提示：博主说法仅代表个人，欢迎讨论与交流（虽然没啥人），但拒绝无脑喷</p><p>​        《剑来》在开篇便说明了自己的定位：”武侠修真网络小说“。我很支持作者烽火戏诸侯的一种说法：”武侠小说死了，但哪怕再过一百年，武侠也不会死“，仙侠二字，确实为我们的心头爱。修真之“仙“与武侠之“侠”两字，构建了整篇小说，其中串有人情世故和道理规矩，使得整篇小说架构完整且经得住推敲。</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gewhj5cx74j30u00u0kjl.jpg" alt=""></p><p>​        读惯了“网络小说”的我曾深切以为，网络小说很难做到与那名著一般打动人心的效果，至多是勾起读者的同感，达不到与读者心灵共鸣的程度，直到我读到了《剑来》。我曾看完了番茄（我吃西红柿）除《飞剑问道》《雪鹰领主》之外的作品和三少（唐家三少）的斗罗系列（《斗罗大陆》一二三和正在连载的四），我也很庆幸在我的中二年纪遇见他们，但在这里，我并不是非要做个对比，而是表明一种观点，就是网络小说可以有不同的写法，也可以让读者身临其境，像参与者那样思考小说情节，用以完善自我，增加阅历经历，而不是当时爽一爽，事后意犹未尽还想爽，便魂不守舍，读过《剑来》某章节后确实有种想继续看完下一章的欲望，但更希望把它留在下次，等到心情平静的下次。</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gewbwbwuzjj30g40snjro.jpg" alt=""></p><p>​        读过《剑来》，领悟到了”神魔皆有人情、精魅亦通世故“，改正了原有对待修真小说的态度，这也是读后收获之一。而且这种态度的改观是自愿的，是有道理可追的。当然《剑来》也无法顾及到所有出场人物，有些人物的收场平淡无奇，有些就寥寥几笔揭过，留白给读者，但这也是一种让读者享受的方式呀！由着读者心思，自主思考，也使得情节出彩，至于写了谁谁谁，怎么写的，结局如何，我就不讲了，剧透确实不好。</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf4ogdec9ij30d609bwed.jpg" alt="test"></p><p>​        《剑来》确实突破了 “修力不修心” “披着仙侠皮的街头斗殴” “活了千百年、顶着各种老祖的头衔，骨子里不过是个地痞” 的诸多平常网络小说的弊端（可能是因为那些小说本就是想写爽文，而不是因为作者本人笔力心力不够吧…笑…)，没有“九龙老祖”那种智障情节，但它也有自己不被有些读者完全认可的东西——文青气息太重。网友总说烽火拽文，写些让人摸不着头脑的古文，有些甚至是自己造的说法（这是真的，不是我胡诌着无中生“友”）。但依我看，这种让人不知缘由道理的“文青文字”，也是武侠小说的一部分呀！有人说连作者都不知道自己在说什么，我却要说书中的神仙老爷一定知道自己在说什么，这样一想，是不是书中人物更稍微立体了呢？</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gewbxcucj5j30hs0rrab9.jpg" alt=""></p><p>​        最后用烽火的话作结：“世间好物不坚牢，彩云易散琉璃脆。那咱们就从小说里找补回来，多好。“</p><p>20.5.18 搁笔</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;《剑来》是我在疫情期间读的书，与之一起读的还有《龙族》（重温龙族三），《瓦尔登湖》（读的不多）和《明朝那些事儿》（快读完了），很&lt;strong&gt;庆幸有这些书籍陪伴，很高兴遇见他们！&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="日志" scheme="http://yoursite.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="推荐" scheme="http://yoursite.com/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+      <category term="书籍" scheme="http://yoursite.com/tags/%E4%B9%A6%E7%B1%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/05/17/hello-world/"/>
+    <id>http://yoursite.com/2020/05/17/hello-world/</id>
+    <published>2020-05-17T03:06:46.102Z</published>
+    <updated>2020-05-17T03:06:46.102Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
