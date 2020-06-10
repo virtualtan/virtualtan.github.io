@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://virtualtan.github.io/"/>
-  <updated>2020-06-08T05:06:54.469Z</updated>
+  <updated>2020-06-10T23:02:45.231Z</updated>
   <id>https://virtualtan.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>漫画推荐——1</title>
+    <link href="https://virtualtan.github.io/2020/06/11/%E6%BC%AB%E7%94%BB%E6%8E%A8%E8%8D%90%E2%80%94%E2%80%941/"/>
+    <id>https://virtualtan.github.io/2020/06/11/%E6%BC%AB%E7%94%BB%E6%8E%A8%E8%8D%90%E2%80%94%E2%80%941/</id>
+    <published>2020-06-10T22:38:22.000Z</published>
+    <updated>2020-06-10T23:02:45.231Z</updated>
+    
+    <content type="html"><![CDATA[<p>漫画推荐可能只有一期，因为我现在已经追不动漫画了…</p><p><strong>感谢陪伴</strong> </p><a id="more"></a><h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><p><strong>说明：</strong></p><ol><li><p><strong>资源来源于网络，仅供分享学习，侵权联系删除。</strong></p></li><li><p><strong>排名不分先后。</strong></p></li><li><strong>个人向，欢迎交流与讨论。</strong></li></ol><h2 id="从前有座灵剑山"><a href="#从前有座灵剑山" class="headerlink" title="从前有座灵剑山"></a>从前有座灵剑山</h2><p>比较出名的漫画，<strong>冒险类穿越</strong>漫画，<strong>剧情向</strong>， <strong>修真</strong>，<strong>画风友好</strong>。</p><h2 id="狐妖小红娘"><a href="#狐妖小红娘" class="headerlink" title="狐妖小红娘"></a>狐妖小红娘</h2><p>又是比较出名，<strong>讲妖与人在前世今生里的爱恨</strong>， <strong>剧情向，多故事</strong>。</p><h2 id="食色大陆"><a href="#食色大陆" class="headerlink" title="食色大陆"></a>食色大陆</h2><p><strong>美食类穿越漫画</strong>， <strong>搞笑，玩梗</strong>。</p><h2 id="妖怪名单"><a href="#妖怪名单" class="headerlink" title="妖怪名单"></a>妖怪名单</h2><p><strong>写前世，重今生</strong>， <strong>剧情向</strong>，<strong>画风很好很舒服</strong>。</p><h2 id="妖神记"><a href="#妖神记" class="headerlink" title="妖神记"></a>妖神记</h2><p><strong>玄幻类复活漫画</strong>， 虽然后期升级有些怪，但不碍它是一部优秀的漫画，<strong>剧情向</strong>。</p><h2 id="x龙时代"><a href="#x龙时代" class="headerlink" title="x龙时代"></a>x龙时代</h2><p><strong>玄幻类穿越漫画</strong>， 很喜欢里面的女主，<strong>萌</strong>， <strong>战斗</strong>。</p><h2 id="哑舍"><a href="#哑舍" class="headerlink" title="哑舍"></a>哑舍</h2><p><strong>知名小说改编成的知名漫画</strong>， <strong>剧情向</strong>， <strong>故事向</strong>， <strong>合理虚构古事</strong>，很喜欢。</p><h2 id="资源"><a href="#资源" class="headerlink" title="资源"></a>资源</h2><p>可以进<a href="https://www.manhuabei.com" target="_blank" rel="noopener">这个网站</a>, 漫画的更新还是挺快的。</p><p>如果想要更快的话， 可以进对应的百度贴吧，会有人分享的。</p><p><strong>建议有条件的支持正版，侵权联系删除</strong></p><p>搁笔。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;漫画推荐可能只有一期，因为我现在已经追不动漫画了…&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;感谢陪伴&lt;/strong&gt; &lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="日志" scheme="https://virtualtan.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="推荐" scheme="https://virtualtan.github.io/tags/%E6%8E%A8%E8%8D%90/"/>
+    
+      <category term="娱乐" scheme="https://virtualtan.github.io/tags/%E5%A8%B1%E4%B9%90/"/>
+    
+  </entry>
   
   <entry>
     <title>工具推荐——好用的网站</title>
@@ -47,9 +73,9 @@
     <link href="https://virtualtan.github.io/2020/06/02/basic-blog/"/>
     <id>https://virtualtan.github.io/2020/06/02/basic-blog/</id>
     <published>2020-06-01T16:04:05.000Z</published>
-    <updated>2020-06-02T05:25:32.326Z</updated>
+    <updated>2020-06-10T22:36:18.824Z</updated>
     
-    <content type="html"><![CDATA[<p>test</p><p><del>233333</del></p><p><strong><em>……</em></strong></p><a id="more"></a><h2 id="博文设置："><a href="#博文设置：" class="headerlink" title="博文设置："></a>博文设置：</h2><p>title: …<br>date: …<br>top_img: <a href="https://xxx.jpg" target="_blank" rel="noopener">https://xxx.jpg</a><br>categories: …<br>tags: </p><ul><li>xx</li><li>other xx</li></ul><p>top: True (要置顶的时候写</p><p>layout: slides (幻灯片slides页面时要写</p><p><strong>本博客所写内容如下</strong></p><h2 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h2><p>日志</p><p>博客配置</p><h2 id="标签"><a href="#标签" class="headerlink" title="标签"></a>标签</h2><p>推荐： 书籍，影视，音乐，<strong>软件</strong>, <em>工具</em>。</p><p>分享/记录： 学习经验，生活， 旅行， 感想。</p><p><del>学习： 写到<a href="https://www.cnblogs.com/tyner/" target="_blank" rel="noopener">博客园</a>？</del></p><p>（待补充….</p><h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><p>侵权联系删除。</p><p>搁笔。</p>]]></content>
+    <content type="html"><![CDATA[<p>test</p><p><del>233333</del></p><p><strong><em>……</em></strong></p><a id="more"></a><h2 id="博文设置："><a href="#博文设置：" class="headerlink" title="博文设置："></a>博文设置：</h2><p>title: …<br>date: …<br>top_img: <a href="https://xxx.jpg" target="_blank" rel="noopener">https://xxx.jpg</a><br>categories: …<br>tags: </p><ul><li>xx</li><li>other xx</li></ul><p>top: True (要置顶的时候写</p><p>layout: slides (幻灯片slides页面时要写</p><p><strong>本博客所写内容如下</strong></p><h2 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h2><p>日志</p><p>博客配置</p><h2 id="标签"><a href="#标签" class="headerlink" title="标签"></a>标签</h2><p>推荐： 书籍，娱乐，<strong>软件</strong>, <em>工具</em>。</p><p>分享/记录： 学习经验，生活， 旅行， 感想。</p><p><del>学习： 写到<a href="https://www.cnblogs.com/tyner/" target="_blank" rel="noopener">博客园</a>？</del></p><p>（待补充….</p><h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><p>侵权联系删除。</p><p>搁笔。</p>]]></content>
     
     <summary type="html">
     
@@ -127,7 +153,7 @@
     <link href="https://virtualtan.github.io/2020/05/27/%E5%BD%B1%E8%A7%86%E6%8E%A8%E8%8D%90%E2%80%94%E2%80%944%E6%9C%88%E7%95%AA%E5%89%A7/"/>
     <id>https://virtualtan.github.io/2020/05/27/%E5%BD%B1%E8%A7%86%E6%8E%A8%E8%8D%90%E2%80%94%E2%80%944%E6%9C%88%E7%95%AA%E5%89%A7/</id>
     <published>2020-05-27T07:14:29.000Z</published>
-    <updated>2020-06-01T15:19:44.333Z</updated>
+    <updated>2020-06-10T22:35:48.798Z</updated>
     
     <content type="html"><![CDATA[<p>这里写下我在四月追过的番剧，个人觉得很好看，很值得推荐。</p><p>（ps：我比较喜欢在看完之后截图纪念，所以本文图片可能较多</p><a id="more"></a><h2 id="《月刊少女野崎君》"><a href="#《月刊少女野崎君》" class="headerlink" title="《月刊少女野崎君》"></a>《月刊少女野崎君》</h2><p>​        比较沙雕的一部番剧，适合没事的时候看，也可以用作解闷，改善心情。</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf718r01uaj30h709pjs0.jpg" alt="入学式"></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf718qff5cj30h509o3z1.jpg" alt="烟花庙会"></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71tyha35j30fq09n0u6.jpg" alt=""></p><h2 id="声之形"><a href="#声之形" class="headerlink" title="声之形"></a>声之形</h2><p>​        <strong>不多说，直接推荐。</strong> </p><p>​        个人觉得男主和青春期的我们比较像，女主也是….多珍惜眼前人吧，别再让ta受不该受的委屈了，都只是孩子啊。</p><p>​        </p><p>​        哦对了，<strong>不要轻生！！</strong>借用蛇叔的话：</p><blockquote><p>活着本没有什么意思，但只要活着，就会遇上有意思的东西，就像你遇见了花，我又遇见了你一样。</p></blockquote><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71dj1ok5j30qj0ecmzd.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71dly6jqj30ql0ectap.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71dv7nnrj30qe0e8gnb.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71dxrfs1j30ql0ecwh8.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71qb6s5zj30ql0ecdiu.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71qclmy7j30qo0efadd.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71qfwwl7j30qm0eewh8.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71ql844rj30qn0efq7n.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71qpsbmnj30qm0edju1.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71d4g4b7j30p00ditao.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71d9zm9bj30p00dfjvg.jpg" alt=""></p><h2 id="你的名字"><a href="#你的名字" class="headerlink" title="你的名字"></a>你的名字</h2><p>​        剧情向，好看，不是很虐，画面很美。</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71gye4urj30rc0fc7av.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71gzlw03j30re0fate1.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71h110wbj30re0fd78v.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71h25jvsj30rg0fh78r.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71h3b6bhj30re0fd447.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71kw5p08j30rf0fejvw.jpg" alt=""></p><h2 id="青春期猪头少年不会梦到兔女郎"><a href="#青春期猪头少年不会梦到兔女郎" class="headerlink" title="青春期猪头少年不会梦到兔女郎"></a>青春期猪头少年不会梦到兔女郎</h2><p>​        剧情向，虽然不符实，但确实值得一看。</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71krvz6wj30zk0k0wg7.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71ks3r2qj30d6087mx9.jpg" alt=""></p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71ks8ojpj30d6088mxd.jpg" alt=""></p><h2 id="天使降临到了我身边"><a href="#天使降临到了我身边" class="headerlink" title="天使降临到了我身边"></a>天使降临到了我身边</h2><p>治愈番，<strong>超级治愈！！</strong></p><p>（ps：不知道截哪张好看好萌的图，就截了这张全家福….别介…他们都是很治愈的哦！不相信就去看看吧。</p><p><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gf71okhwxaj30rw0fln2z.jpg" alt=""></p>]]></content>
     
@@ -144,7 +170,7 @@
     
       <category term="推荐" scheme="https://virtualtan.github.io/tags/%E6%8E%A8%E8%8D%90/"/>
     
-      <category term="影视" scheme="https://virtualtan.github.io/tags/%E5%BD%B1%E8%A7%86/"/>
+      <category term="娱乐" scheme="https://virtualtan.github.io/tags/%E5%A8%B1%E4%B9%90/"/>
     
   </entry>
   
