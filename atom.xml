@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://virtualtan.github.io/"/>
-  <updated>2020-06-11T23:20:51.430Z</updated>
+  <updated>2020-06-17T02:38:56.436Z</updated>
   <id>https://virtualtan.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>fly</title>
+    <link href="https://virtualtan.github.io/2020/06/17/fly/"/>
+    <id>https://virtualtan.github.io/2020/06/17/fly/</id>
+    <published>2020-06-17T02:21:48.000Z</published>
+    <updated>2020-06-17T02:38:56.436Z</updated>
+    
+    <content type="html"><![CDATA[<p>因备战高考，剑指大学，停更。</p><a id="more"></a><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=33340727&auto=0&height=66"></iframe><blockquote><p>我相信不管在哪所学校<br>阶级上升的道路仍然是开放的<br>奋斗仍然是最有意义的答案<br>而对于你们来说<br>人生才刚刚开始<br>所以现在<br>我只能带着最纯粹的善意<br>祝福你们：<br>飞吧<br>————老番茄</p></blockquote><iframe src="//player.bilibili.com/player.html?aid=11161078&bvid=BV1ex411a7pB&cid=18466771&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><p>搁笔。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;因备战高考，剑指大学，停更。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="日志" scheme="https://virtualtan.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="记录" scheme="https://virtualtan.github.io/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="生活" scheme="https://virtualtan.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>我是清都山水郎</title>
@@ -41,9 +66,9 @@
       <category term="日志" scheme="https://virtualtan.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
     
-      <category term="生活" scheme="https://virtualtan.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
-    
       <category term="记录" scheme="https://virtualtan.github.io/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="生活" scheme="https://virtualtan.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
@@ -224,9 +249,9 @@
       <category term="日志" scheme="https://virtualtan.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
     
-      <category term="生活" scheme="https://virtualtan.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
-    
       <category term="记录" scheme="https://virtualtan.github.io/tags/%E8%AE%B0%E5%BD%95/"/>
+    
+      <category term="生活" scheme="https://virtualtan.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
